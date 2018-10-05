@@ -51,3 +51,14 @@ Integrantes:
    Se verifica usando el comando docker run -it 182061987/orbis-training-docker:0.2.0 cat app/preguntas.md 
 8. ¿Cómo se comenta una linea de código en Dockerfile?
    Se comanta con el numeral
+
+   
+### **Preguntas Finales**
+1. ¿Qué es NGINX?
+   Es un servidor web para correos electronicos.
+2. ¿Cómo expongo puertos en docker?
+   a traes del docker compose.
+3. ¿Cómo especifico los puertos al levantar un contenedor (docker run)?
+    ejecutando el comando: docker run -d -p "1080:80" 182061987/orbis-training-docker:0.3.0
+4. ¿Cómo hago 'forward' al levantar un contenedor (docker run)?
+   Creando un archivo docker-compose.yml  indicando los puertos.
