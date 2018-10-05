@@ -15,4 +15,9 @@
 * **docker images**
 
 * **docker tag 6da4d60c26fc 182061987/orbis-training-docker:0.2.0**
+
 * **docker push 182061987/orbis-training-docker**
+
+* **docker run -d -p "1080:80" 182061987/orbis-training-docker:0.3.0**
+
+* **docker-compose -f ./docker-compose.yml up -d**
