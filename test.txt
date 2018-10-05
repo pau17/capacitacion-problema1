@@ -1,0 +1,113 @@
+    1  ngrok 8090
+    2  ngrok 8090
+    3  ngrok http 8090
+    4  ngrok http 8090
+    5  -ngrok
+    6  cd /d/proyectos/
+    7  ls
+    8  cd orbis-training-project/
+    9  gpush
+   10  docker version
+   11  vi Dockerfile
+   12  docker build -t pau17/orbis-training-docker:0.1.0
+   13  docker ps
+   14  docker build -t pau17/orbis-training-docker:0.1.0 .
+   15  docker ps
+   16  node version
+   17  node
+   18  docker build -t pau17/orbis-training-docker:0.1.0 .
+   19  docker ps
+   20  docker build -t pau17/orbis-training-docker:0.1.0 .
+   21* docker 
+   22  docker build -t pau17/orbis-training-docker:0.1.0 .
+   23  docker ps
+   24  docker build --tag express-image .
+   25  docker ps
+   26  docker run -p 5000:3000 --name express-container express-image
+   27  docker images
+   28  docker ps
+   29  docker build -t pau17/orbis-training-docker:0.1.0 .
+   30  docker image
+   31  docker images
+   32  docker rm 11b451eea2cc
+   33  docker rmi 11b451eea2cc
+   34  docker images
+   35  docker rmi adc92ac8f39c
+   36  docker images
+   37  docker rmi 63b1342bccf1
+   38  docker images
+   39  docker rmi 8672b25e842c
+   40  docker images
+   41  docker rmi 7db9c916bc4e
+   42  docker rmi -f 7db9c916bc4e
+   43  docker images 
+   44  docker rmi44790785a53f 
+   45  docker rmi 44790785a53f 
+   46  docker images 
+   47  docker build -t pau17/orbis-training-docker:0.1.0 .
+   48  docker images 
+   49  git add README.md
+   50  git add README.md 
+   51  vi README.md
+   52  docker login
+   53  docker push pau17/orbis-training-docker
+   54  docker login
+   55  docker login
+   56  docker push pau17/orbis-training-docker
+   57  docker logut
+   58  docker logout
+   59  gocker login
+   60  docker login
+   61  docker login
+   62  docker login
+   63  docker push pau17/orbis-training-docker
+   64  docker push pau17/orbis-training-docker
+   65  docker push 182061987/orbis-training-docker
+   66  docker images
+   67  docker rmi 31fd2cfd2965
+   68  docker build -t 182061987/orbis-training-docker:0.1.0 .
+   69  docker images
+   70  docker push 182061987/orbis-training-docker
+   71  docker search 182061987/orbis-training-docker
+   72  docker images
+   73  docker tag 6da4d60c26fc 182061987/orbis-training-docker:0.2.0
+   74  docker images
+   75  docker push 182061987/orbis-training-docker
+   76  gs
+   77  gpush
+   78  gpush
+   79  gs
+   80  git add .
+   81  gs
+   82  git commit -m "feat:imagen docker"
+   83  gs
+   84  git tag 
+   85  git tag -l 'v0.2.0'
+   86* 
+   87  git tag
+   88  gpush
+   89  gpush
+   90  docker run -it 182061987/orbis-training-docker bash
+   91  docker run -it 182061987/orbis-training-docker:0.1.0 bash
+   92  docker images
+   93  docker run -it 182061987/orbis-training-docker /bin/bash
+   94  docker run -it 182061987/orbis-training-docker:0.1.0 /bin/bash
+   95  docker run -it 182061987/orbis-training-docker:0.1.0
+   96  docker build -t 182061987/orbis-training-docker:0.1.0 .
+   97  docker iamgen
+   98  docker images
+   99  docker run -it 182061987/orbis-training-docker:0.1.0
+  100  docker run -it 182061987/orbis-training-docker:0.1.0 /bin/bash
+  101* docker run -it docker run -it 182061987/orbis-training-docker:0.1.0 /bin/bash bash
+  102* 
+  103  docker run -it euechi/orbis-training-docker:0.2.0 bash
+  104  git status
+  105  cd 
+  106  dir
+  107  cd /d/Proyectos/orbis-training-project/
+  108  ls
+  109  vi preguntas.md 
+  110  cat -n preguntas.md 
+  111  docker build -t 182061987/orbis-training-docker:0.2.0 .
+  112  docker build -t 182061987/orbis-training-docker:0.2.0 .
+  113  history>test.txt

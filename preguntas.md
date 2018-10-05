@@ -21,3 +21,14 @@ Integrantes:
 	se clona el proyecto localmente
 	se realiza los cambios respectivos
 	se guardan los cambios (add, commit, pull , push)
+
+--DOCKER--
+----Parte 5 ----
+1. ¿Porque es necesario crear un contenedor con esta bandera -it? ¿Que pasa si no le pongo -it?
+	Sirve para ver las respuesta del contenedor en nuestra terminal local.
+
+2. ¿Para que sirve ejecutar el comando bash al ejecutar una imagen?
+	Sirve para acceder al contenedor y poder ejecutar comandos dentro de este.
+3. ¿Diferencia entre comando Docker ps y Docker ps -a?
+	-ps : muestra los contenedores activos
+	-a  : muestra todos los contenedores ya sea loa actvos, apagados y creados
