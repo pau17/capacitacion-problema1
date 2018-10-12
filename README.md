@@ -21,3 +21,11 @@
 * **docker run -d -p "1080:80" 182061987/orbis-training-docker:0.3.0**
 
 * **docker-compose -f ./docker-compose.yml up -d**
+
+* **mkdir resources**
+
+* **mv intro.md preguntas.md resources**
+
+* **docker build -t 182061987/orbis-training-docker:1.3.0 .**
+
+* **docker run -i -t 182061987/orbis-training-docker:1.3.0 ls**
